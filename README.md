@@ -9,6 +9,7 @@
 ## Informações sobre onde foi compilado
 
 Código rodado no Ubuntu versão 22.04 LS.
+
 O compilador utilizado foi o terminal do linux com o gcc.
 
 ## Guia para rodar o chat
